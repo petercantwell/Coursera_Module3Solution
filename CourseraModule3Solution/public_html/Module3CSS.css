@@ -1,0 +1,45 @@
+body{
+    background-color: yellow;
+    font-size: 16px;
+}
+
+#header-nav{
+    border-radius: 0px;
+    border:0;
+}
+
+.navbar-brand h1 {  
+  font-family: 'Arial', serif;
+  color: Black;
+  font-size: 1.9em;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.navbar-brand{
+    padding:30px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+    text-decoration: none;
+}
+
+#nav-list li a{
+   text-align: center;
+}
+
+#MenuText{
+    font-size: 30px;
+    font-family: Arial;
+}
+
+#chicken{
+    background-color: blanchedalmond;
+    //width:1200px;
+    margin:auto;
+    text-align: center;
+    padding: 30px;
+}
